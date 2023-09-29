@@ -1,0 +1,12 @@
+{
+  "name": "survey-responsive.web.design",
+  "version": "1.0.0",
+  "description": "This is the first project I created using [freeCodeCamp](freecodecamp.org)'s Responsive Web Design curriculum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
